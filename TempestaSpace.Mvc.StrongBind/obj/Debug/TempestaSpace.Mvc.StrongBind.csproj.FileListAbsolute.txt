@@ -1,0 +1,13 @@
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\BindForAttributeFramework\bin\Debug\TempestaSpace.Mvc.StrongBind.dll
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\BindForAttributeFramework\bin\Debug\TempestaSpace.Mvc.StrongBind.pdb
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\BindForAttributeFramework\bin\Debug\System.Web.Mvc.dll
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\BindForAttributeFramework\obj\Debug\TempestaSpace.Mvc.StrongBind.csproj.CoreCompileInputs.cache
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\BindForAttributeFramework\obj\Debug\TempestaSpace.Mvc.StrongBind.dll
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\BindForAttributeFramework\obj\Debug\TempestaSpace.Mvc.StrongBind.pdb
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\TempestaSpace.Mvc.StrongBind\bin\Debug\TempestaSpace.Mvc.StrongBind.dll
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\TempestaSpace.Mvc.StrongBind\bin\Debug\TempestaSpace.Mvc.StrongBind.pdb
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\TempestaSpace.Mvc.StrongBind\bin\Debug\System.Web.Mvc.dll
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\TempestaSpace.Mvc.StrongBind\obj\Debug\TempestaSpace.Mvc.StrongBind.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\TempestaSpace.Mvc.StrongBind\obj\Debug\TempestaSpace.Mvc.StrongBind.csproj.CoreCompileInputs.cache
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\TempestaSpace.Mvc.StrongBind\obj\Debug\TempestaSpace.Mvc.StrongBind.dll
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\TempestaSpace.Mvc.StrongBind\obj\Debug\TempestaSpace.Mvc.StrongBind.pdb

@@ -1,0 +1,11 @@
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\SampleCore\bin\Debug\netcoreapp2.0\SampleCore.deps.json
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\SampleCore\bin\Debug\netcoreapp2.0\SampleCore.runtimeconfig.json
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\SampleCore\bin\Debug\netcoreapp2.0\SampleCore.runtimeconfig.dev.json
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\SampleCore\bin\Debug\netcoreapp2.0\SampleCore.dll
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\SampleCore\obj\Debug\netcoreapp2.0\SampleCore.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\SampleCore\obj\Debug\netcoreapp2.0\SampleCore.csproj.CoreCompileInputs.cache
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\SampleCore\obj\Debug\netcoreapp2.0\SampleCore.AssemblyInfoInputs.cache
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\SampleCore\obj\Debug\netcoreapp2.0\SampleCore.AssemblyInfo.cs
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\SampleCore\bin\Debug\netcoreapp2.0\SampleCore.pdb
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\SampleCore\obj\Debug\netcoreapp2.0\SampleCore.dll
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\SampleCore\obj\Debug\netcoreapp2.0\SampleCore.pdb

@@ -1,0 +1,5 @@
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\TempestaSpace.Core.StrongBind\bin\Debug\netcoreapp2.0\TempestaSpace.Core.StrongBind.deps.json
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\TempestaSpace.Core.StrongBind\bin\Debug\netcoreapp2.0\TempestaSpace.Core.StrongBind.dll
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\TempestaSpace.Core.StrongBind\obj\Debug\netcoreapp2.0\TempestaSpace.Core.StrongBind.csproj.CoreCompileInputs.cache
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\TempestaSpace.Core.StrongBind\obj\Debug\netcoreapp2.0\TempestaSpace.Core.StrongBind.AssemblyInfoInputs.cache
+D:\OneDrive\Workspace\TEMP-Projects\BindForAttribute\TempestaSpace.Core.StrongBind\obj\Debug\netcoreapp2.0\TempestaSpace.Core.StrongBind.AssemblyInfo.cs
